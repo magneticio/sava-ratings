@@ -1,0 +1,46 @@
+{
+	"ratings": [
+		{
+			"id": 1,
+			"stars": 4.5,
+			"reviews": 51,
+			"locale": "en"
+		},
+		{
+			"id": 2,
+			"stars": 3.7,
+			"reviews": 15,
+			"locale": "en"
+		},
+		{
+			"id": 3,
+			"stars": 4.2,
+			"reviews": 21,
+			"locale": "ie"
+		},
+		{
+			"id": 4,
+			"stars": 4.4,
+			"reviews": 29,
+			"locale": "en"
+		},
+		{
+			"id": 5,
+			"stars": 4.7,
+			"reviews": 23,
+			"locale": "en"
+		},
+		{
+			"id": 6,
+			"stars": 3.6,
+			"reviews": 10,
+			"locale": "ie"
+		},
+		{
+			"id": 7,
+			"stars": 2.9,
+			"reviews": 16,
+			"locale": "ie"
+		}
+	]
+}
